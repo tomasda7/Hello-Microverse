@@ -1,5 +1,5 @@
 # 📖 Hello Microverse
-**Hello Mircoverse its my firts project on the Program.**
+**Hello Microverse it's my first project on the program.**
 
 ## 🛠 Built With
 **HTML and CSS.**
