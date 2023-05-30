@@ -8,8 +8,8 @@
 
 👤 **Tomás da Silveira**
 
-- GitHub: [@githubhandle](https://github.com/tomasda7)
-- Twitter: [@twitterhandle](https://twitter.com/tomasdev3)
+- GitHub: [@tomasda7](https://github.com/tomasda7)
+- Twitter: [@tomasdev3](https://twitter.com/tomasdev3)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tomas-da-silveira-3793721b7/)
 
 ## 📝 License
