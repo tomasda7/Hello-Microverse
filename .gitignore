@@ -9,5 +9,6 @@ node_modules/
 # Ignore JSON files
 *.json
 
-
+#Ignore test.md
+test.md
 
