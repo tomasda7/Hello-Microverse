@@ -1,0 +1,14 @@
+#Ignore node_modules
+node_modules/
+
+# Ignore linter files
+*.lint
+*.lintignore
+*.hintrc
+
+# Ignore JSON files
+*.json
+
+#Ignore test.md
+test.md
+
